@@ -1,0 +1,15 @@
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\bin\Debug\net6.0\Cho3Ex01.exe
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\bin\Debug\net6.0\Cho3Ex01.deps.json
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\bin\Debug\net6.0\Cho3Ex01.runtimeconfig.json
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\bin\Debug\net6.0\Cho3Ex01.dll
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\bin\Debug\net6.0\ref\Cho3Ex01.dll
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\bin\Debug\net6.0\Cho3Ex01.pdb
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\obj\Debug\net6.0\Cho3Ex01.csproj.AssemblyReference.cache
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\obj\Debug\net6.0\Cho3Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\obj\Debug\net6.0\Cho3Ex01.AssemblyInfoInputs.cache
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\obj\Debug\net6.0\Cho3Ex01.AssemblyInfo.cs
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\obj\Debug\net6.0\Cho3Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\obj\Debug\net6.0\Cho3Ex01.dll
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\obj\Debug\net6.0\ref\Cho3Ex01.dll
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\obj\Debug\net6.0\Cho3Ex01.pdb
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\Cho3Ex01\obj\Debug\net6.0\Cho3Ex01.genruntimeconfig.cache
