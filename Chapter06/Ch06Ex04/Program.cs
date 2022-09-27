@@ -1,0 +1,19 @@
+﻿using System;
+
+namespace Ch06Ex04
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine($"{args.Length} command Line arguments were specified:");
+            foreach (string arg in args)
+            {
+                Console.WriteLine(arg);
+            }
+            Console.ReadKey();
+        }
+    }
+}
+
+

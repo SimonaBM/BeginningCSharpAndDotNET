@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "926af557-485c-4d63-bd7f-6e0664cc049f": {
+      "ProjectGuid": "926af557-485c-4d63-bd7f-6e0664cc049f",
+      "DisplayName": "Ch06Ex01",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5520f6c0-b96a-40d0-a60a-df35c73fa7ad": {
+      "ProjectGuid": "5520f6c0-b96a-40d0-a60a-df35c73fa7ad",
+      "DisplayName": "ExchangingData",
+      "ColorIndex": 1
+    },
+    "eb43f657-f99f-4ac1-b95f-332ec586e45b": {
+      "ProjectGuid": "eb43f657-f99f-4ac1-b95f-332ec586e45b",
+      "DisplayName": "OveroadingFuntions",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

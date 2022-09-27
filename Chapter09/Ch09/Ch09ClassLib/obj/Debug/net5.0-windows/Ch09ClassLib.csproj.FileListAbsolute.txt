@@ -1,0 +1,12 @@
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0-windows\Ch09ClassLib.deps.json
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0-windows\Ch09ClassLib.dll
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0-windows\ref\Ch09ClassLib.dll
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0-windows\Ch09ClassLib.pdb
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0-windows\Ch09ClassLib.csproj.AssemblyReference.cache
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0-windows\Ch09ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0-windows\Ch09ClassLib.AssemblyInfoInputs.cache
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0-windows\Ch09ClassLib.AssemblyInfo.cs
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0-windows\Ch09ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0-windows\Ch09ClassLib.dll
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0-windows\ref\Ch09ClassLib.dll
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0-windows\Ch09ClassLib.pdb

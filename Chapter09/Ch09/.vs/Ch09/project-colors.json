@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c00531ef-1bf0-40a4-a50f-195736c59ebe": {
+      "ProjectGuid": "c00531ef-1bf0-40a4-a50f-195736c59ebe",
+      "DisplayName": "Ch09ClassLib",
+      "ColorIndex": 0
+    },
+    "fcf6670b-12b2-487f-83bc-acba7f76c583": {
+      "ProjectGuid": "fcf6670b-12b2-487f-83bc-acba7f76c583",
+      "DisplayName": "Ch09Ex02",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

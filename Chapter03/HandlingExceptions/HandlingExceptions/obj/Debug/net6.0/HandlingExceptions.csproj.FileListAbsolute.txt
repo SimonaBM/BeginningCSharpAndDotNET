@@ -1,0 +1,15 @@
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.exe
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.deps.json
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.runtimeconfig.json
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.dll
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\bin\Debug\net6.0\ref\HandlingExceptions.dll
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.pdb
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.AssemblyReference.cache
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfoInputs.cache
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfo.cs
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.dll
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\obj\Debug\net6.0\ref\HandlingExceptions.dll
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.pdb
+C:\Users\Simona\Documents\BeginningCSharpAndDotNET\Chapter03\HandlingExceptions\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.genruntimeconfig.cache

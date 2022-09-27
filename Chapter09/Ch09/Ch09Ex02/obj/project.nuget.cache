@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "60tmD1qQ6U+LjgR1WUhcum3vNtsUkolbMWPtwHSSBlSihlUrQwuLIyFSx3xy5xsbeOnmMEsUUzVz7FRcUYBEBA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Simona\\Documents\\BeginningCSharpAndDotNET\\Chapter09\\Ch09\\Ch09Ex02\\Ch09Ex02.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Ch09ClassLib is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project Ch09ClassLib supports: net5.0-windows7.0 (.NETCoreApp,Version=v5.0)",
+      "libraryId": "Ch09ClassLib",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
